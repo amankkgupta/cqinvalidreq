@@ -1,0 +1,3 @@
+aman,male,3
+ajaz,male,3
+ajaz,male,3
